@@ -1,2 +1,2 @@
-# HackerEarth-soulutions
-Creates hackerearth solutions submitted by me
+# HackerEarth-solutions
+  HackerEarth solutions submitted by me
